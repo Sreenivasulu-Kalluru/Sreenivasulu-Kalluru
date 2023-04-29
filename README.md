@@ -10,12 +10,6 @@ I am a Web Development Enthusiast who is currently enrolled in **[iNeuron](https
 
 [![Top Langs](https://github-readme-stats-sreenivasulu-kalluru.vercel.app/api/top-langs/?username=sreenivasulu-kalluru&layout=compact)](https://github.com/sreenivasulu-kalluru/github-readme-stats)
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ## **Blog Website**
 
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
