@@ -8,7 +8,7 @@ I am a Web Development Enthusiast who is currently enrolled in **[iNeuron](https
 
 ![GitHub stats](https://github-readme-stats-sreenivasulu-kalluru.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=252334)
 
-[![Top Langs](https://github-readme-stats-sreenivasulu-kalluru.vercel.app/api/top-langs/?username=sreenivasulu-kalluru&layout=compact&theme=aura_dark)](https://github.com/sreenivasulu-kalluru/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sreenivasulu-kalluru.vercel.app/api/top-langs/?username=sreenivasulu-kalluru&layout=compact&theme=aura_dark&border_color=252334)](https://github.com/sreenivasulu-kalluru/github-readme-stats)
 
 ## **Blog Website**
 
