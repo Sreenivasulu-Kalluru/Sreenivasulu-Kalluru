@@ -10,9 +10,6 @@
 
 [![Top Langs](https://github-readme-stats-sreenivasulu-kalluru.vercel.app/api/top-langs/?username=sreenivasulu-kalluru&layout=compact&theme=aura_dark&border_color=252334)](https://github.com/sreenivasulu-kalluru/github-readme-stats)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ## **Blog Website**
 
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
