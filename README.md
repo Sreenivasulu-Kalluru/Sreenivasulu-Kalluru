@@ -1,6 +1,6 @@
 # Hi there<img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">,
 
-### I am a BSc Graduate of the Year 2022, Learning Full Stack Web Development[MERN Stack] 
+## Full Stack JavaScript Developer
 
 ![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=E83A59&style=for-the-badge)
 
