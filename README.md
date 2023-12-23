@@ -1,6 +1,6 @@
 # Hi there<img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">,
 
-## I'm a Full Stack JavaScript Developer
+## I'm a JavaScript Developer 
 
 ![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=E83A59&style=for-the-badge)
 
