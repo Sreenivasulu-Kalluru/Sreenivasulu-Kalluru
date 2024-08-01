@@ -20,9 +20,9 @@
 
 <a href="https://www.linkedin.com/in/vasu-k-8069201b0"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://www.facebook.com/vasu.kalluru24/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Follow%20Me-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/vasuk24/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Follow%20Me-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
-<a href="https://www.instagram.com/iam_vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/iam.vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
